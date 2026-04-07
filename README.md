@@ -1,5 +1,5 @@
 
-# Ahmed Farag AI Assistant (RAG System)
+#  AI Assistant (RAG System)
 
 A simple **Retrieval-Augmented Generation (RAG)** application that answers questions about **Ahmed Farag** using a local knowledge base, FAISS vector search, and an LLM accessed through **OpenRouter**.
 
